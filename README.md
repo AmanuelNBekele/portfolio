@@ -88,5 +88,5 @@ TAB USA LLC (April 2024 - Present)
 
 ### Contact Information
 
-Phone Number: (913) 326-3854
+Phone Number: (913)326-3854
 Email: amanuelnbekele@gmail.com
