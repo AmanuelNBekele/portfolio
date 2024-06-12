@@ -11,7 +11,7 @@ Hello, I'm Amanuel Bekele, a Computer Science major at the University of Missour
 
 I attended Johnson County Community College (JCCC) for two years then transferred to the University of Missouri-Kansas City (UMKC) to pursue a Bachelor's degree in Computer Science. 
 
-So far in my academic journey, I have taken these classes: 
+So far in my academic journey, I have taken these courses: 
 - Data Structures
 - Problem Solving and Programming I & II
 - Discrete Structures I & II
