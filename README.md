@@ -11,9 +11,9 @@ Hello, I'm Amanuel Bekele, a Computer Science major at the University of Missour
 
 I attended Johnson County Community College (JCCC) for two years then transferred to the University of Missouri-Kansas City (UMKC) to pursue a Bachelor's degree in Computer Science. 
 
-Relevant Coursework:
+**Relevant Coursework:**
 
-Johnson County Community College: 
+**Johnson County Community College:**
 - Composition I (ENGL 121)
 - Composition II (ENGL 122)
 - Public Speaking (COMS 121)
@@ -40,7 +40,7 @@ Johnson County Community College:
 - Discrete Structures I (CS 210)
 - Discrete Structures II (CS 211)
 
-University of Missouri-Kansas City: 
+**University of Missouri-Kansas City:** 
 - Introduction to Computer Architecture and Organization (COMP-SCI 281R)
 - Data Structures (COMP-SCI 303)
 - Applied Probability (COMP-SCI 394R)
@@ -60,15 +60,15 @@ University of Missouri-Kansas City:
 
 ### Projects
 
-Route-Finding Algorithm Implementation and Analysis Using Python
+**Route-Finding Algorithm Implementation and Analysis Using Python**
 - Implemented and compared five route-finding algorithms—undirected brute-force, breadth-first search, depth-first search, ID-DFS search, and heuristic approaches—using a dataset of small towns in southern Kansas
 - Program prompts users to input starting and ending towns, select a search method, and then print the discovered route along with relevant metrics such as total time, distance, and optional memory usage
 
-Employee Management System Using C++
+**Employee Management System Using C++**
 - Established an Employee Management System utilizing object-oriented programming principles to store employee information to calculate salary, health contributions, and vacation days earned
 - Program features a suite of member functions mirroring standard list operations, including push_front, push_back, pop_front, pop_back, front, back, empty, insert, remove, and find
 
-2D Visualization and Analysis of Electronic Tabular Data with RST in Cybersecurity Using Python
+**2D Visualization and Analysis of Electronic Tabular Data with RST in Cybersecurity Using Python**
 - Implemented two Matplotlib tasks for data visualization in Python
 - Created scatter plots and histograms for columns of information
 - Demonstrated the use of plt.errorbar() for graphing uncertainties on data points
@@ -76,12 +76,12 @@ Employee Management System Using C++
 
 ### Work Experience
 
-Electronic Technician Apprentice @ Garmin Ltd (February 2021 - April 2021)
+**Electronic Technician Apprentice @ Garmin Ltd (February 2021 - April 2021)**
 - Constructed, fine-tuned, and validated a transistor tester
 - Enrolled in and actively engaged in technician training sessions
 - Communicated research outcomes and insights concerning the transistor tester through informative presentations
 
-Technical Assistant Intern @ TAB USA LLC (April 2024 - Present)
+**Technical Assistant Intern @ TAB USA LLC (April 2024 - Present)**
 - Develop a Microsoft Access database to record production and permanent record of battery serial numbers
 - Write VBA applications for production scheduling that interface with MS Access
 - Support plant IT operations
