@@ -1,17 +1,18 @@
-# Computer Science 
+# Computer Science Student
 
 ### Resume
 file:///C:/Users/amanu/OneDrive/Desktop/Industry%20Resume.pdf
 
 ### Education Background
 
-I attended Johnson County Community College (JCCC) for two years, where I earned an Associate's degree in Liberal Arts and General Science. After completing my studies at JCCC, I transferred to the University of Missouri-Kansas City (UMKC) to pursue a Bachelor's degree in Computer Science. 
-So far in my academic journey, I have taken these class: 
+I attended Johnson County Community College (JCCC) for two years, earning an Associate's degree in Liberal Arts and General Science. After completing my studies at JCCC, I transferred to the University of Missouri-Kansas City (UMKC) to pursue a Bachelor's degree in Computer Science. 
+
+So far in my academic journey, I have taken these classes: 
 - Data Structures
 - Problem Solving and Programming I & II
 - Discrete Structures I & II
 - Intro to Computer Architecture
-- Discreate Structures I & II
+- Discrete Structures I & II
 - Applied Probability
 - Intro to Algorithms & Complexity
 - Intro to Artificial Intelligence
