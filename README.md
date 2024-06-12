@@ -50,7 +50,7 @@ University of Missouri-Kansas City:
 - Linear Algebra I (MATH 300)
 - Physics For Scientists and Engineers (PHYSICS 240)
 
-###Skills
+### Skills
 
 - Database Development
 - C++
@@ -58,7 +58,7 @@ University of Missouri-Kansas City:
 - Python
 - VBA
 
-###Projects
+### Projects
 
 Route-Finding Algorithm Implementation and Analysis Using Python
 - Implemented and compared five route-finding algorithms—undirected brute-force, breadth-first search, depth-first search, ID-DFS search, and heuristic approaches—using a dataset of small towns in southern Kansas
@@ -74,7 +74,7 @@ Employee Management System Using C++
 - Demonstrated the use of plt.errorbar() for graphing uncertainties on data points
 - Introduced plt.scatter() for color-coded 2D graphs based on a third quantity ('label' column)
 
-###Work Experience
+### Work Experience
 
 Electronic Technician Apprentice @ Garmin Ltd (February 2021 - April 2021)
 - Constructed, fine-tuned, and validated a transistor tester
@@ -86,7 +86,7 @@ TAB USA LLC (April 2024 - Present)
 - Write VBA applications for production scheduling that interface with MS Access
 - Support plant IT operations
 
-###Contact Information
+### Contact Information
 
 Phone Number: (913) 326-3854
 Email: amanuelnbekele@gmail.com
