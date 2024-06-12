@@ -9,7 +9,7 @@ Hello, I'm Amanuel Bekele, a Computer Science major at the University of Missour
 
 ### Education Background
 
-I attended Johnson County Community College (JCCC) for two years then transferred to the University of Missouri-Kansas City (UMKC) to pursue a Bachelor's degree in Computer Science. 
+I attended Johnson County Community College (JCCC) for two years then transferred to the University of Missouri-Kansas City (UMKC) to pursue a bachelor of science in Computer Science. 
 
 **Relevant Coursework:**
 
