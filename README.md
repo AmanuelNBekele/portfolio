@@ -81,7 +81,7 @@ Electronic Technician Apprentice @ Garmin Ltd (February 2021 - April 2021)
 - Enrolled in and actively engaged in technician training sessions
 - Communicated research outcomes and insights concerning the transistor tester through informative presentations
 
-TAB USA LLC (April 2024 - Present)
+Technical Assistant Intern @ TAB USA LLC (April 2024 - Present)
 - Develop a Microsoft Access database to record production and permanent record of battery serial numbers
 - Write VBA applications for production scheduling that interface with MS Access
 - Support plant IT operations
