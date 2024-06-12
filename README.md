@@ -12,16 +12,40 @@ Hello, I'm Amanuel Bekele, a Computer Science major at the University of Missour
 I attended Johnson County Community College (JCCC) for two years then transferred to the University of Missouri-Kansas City (UMKC) to pursue a Bachelor's degree in Computer Science. 
 
 Relevant Coursework:
-- Data Structures
-- Problem Solving and Programming I & II
-- Discrete Structures I & II
-- Intro to Computer Architecture
-- Discrete Structures I & II
-- Applied Probability
-- Intro to Algorithms & Complexity
-- Intro to Artificial Intelligence
-- RST Data Science in Cybersecurity
-- Calculus I & II
-- Linear Algebra I
-- Statistics
-- Physics for Scientists and Engineers 
+
+Johnson County Community College: 
+- Composition I (ENGL 121)
+- Composition II (ENGL 122)
+- Public Speaking (COMS 121)
+- Introduction to Humanities (HUM 122)
+- American National Government (POLS 124)
+- College Algebra (Math 171)
+- Programming Fundamentals (CS 134)
+- Concepts/Prog Algorithms C++ (CS 200)
+- Basic Data Structures/C++ (CS 250)
+- Princip Cell & Molecular Biol (BIOL 135)
+- Principles of Macroeconomics (ECON 230)
+- Introduction to Electronics (ELEC 12)
+- Digital Electronics I (ELEC 125)
+- Digital Electronics II (ELEC 225)
+- DC Circuits (ELEC 134)
+- AC Circuits (ELEC 234)
+- Electronics Internship I (ELEC 271)
+- World History: Modern (HIST 152)
+- Trigonometry (MATH172)
+- Statistics (MATH 181)
+- Calculus I (MATH 241)
+- Calculus II (MATH 242)
+- Introduction to Sociology (SOC 122)
+- Discrete Structures I (CS 210)
+- Discrete Structures II (CS 211)
+
+University of Missouri-Kansas City: 
+- Introduction to Computer Architecture and Organization (COMP-SCI 281R)
+- Data Structures (COMP-SCI 303)
+- Applied Probability (COMP-SCI 394R)
+- Intro to Algorithms & Complexity (COMP-SCI 404)
+- Intro Artificial Intelligence (COMP-SCI 461)
+- Special Topics (RST in Data Science in Cybersecurity) (COMP-SCI 490)
+- Linear Algebra I (MATH 300)
+- Physics For Scientists and Engineers (PHYSICS 240)
