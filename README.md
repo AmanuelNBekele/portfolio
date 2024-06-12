@@ -1,7 +1,7 @@
 # Computer Science Student
 
 ### Resume
-file:///C:/Users/amanu/OneDrive/Desktop/Industry%20Resume.pdf
+[Resume](file:///C:/Users/amanu/OneDrive/Desktop/Industry%20Resume.pdf)
 
 ### Education Background
 
