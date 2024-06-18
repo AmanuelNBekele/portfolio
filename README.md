@@ -76,15 +76,15 @@ I attended Johnson County Community College (JCCC) for two years then transferre
 
 ### Work Experience
 
-**Electronic Technician Apprentice @ Garmin Ltd (February 2021 - April 2021)**
-- Constructed, fine-tuned, and validated a transistor tester
-- Enrolled in and actively engaged in technician training sessions
-- Communicated research outcomes and insights concerning the transistor tester through informative presentations
-
 **Technical Assistant Intern @ TAB USA LLC (April 2024 - Present)**
 - Develop a Microsoft Access database to record production and permanent record of battery serial numbers
 - Write VBA applications for production scheduling that interface with MS Access
 - Support plant IT operations
+  
+**Electronic Technician Apprentice @ Garmin Ltd (February 2021 - April 2021)**
+- Constructed, fine-tuned, and validated a transistor tester
+- Enrolled in and actively engaged in technician training sessions
+- Communicated research outcomes and insights concerning the transistor tester through informative presentations
 
 ### Contact Information
 
