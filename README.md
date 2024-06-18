@@ -5,7 +5,7 @@
 Hello, I'm Amanuel Bekele, a Computer Science major at the University of Missouri-Kansas City (UMKC). With expertise in Java, C++, and Python, I previously earned an Associate's degree in Liberal Arts and General Science from Johnson County Community College (JCCC). Now at UMKC, I'm deepening my knowledge in software development and algorithm design, driven by a passion for technology and innovation.
 
 ### Resume
-https://docs.google.com/document/d/1xE9PTHOXSi5ZcmHq0yQ3W96a4MW3QWQfe5JWUTbS3y8/edit?usp=sharing
+[Resume](https://docs.google.com/document/d/e/2PACX-1vTaNL89yEN7LrC3NDYY5z1wd6uxw23w67W1e-tKMF_q4XImmRNsi8NuHEWVbyACxVn3ElVtxun-FMZc/pub)
 
 ### Education Background
 
