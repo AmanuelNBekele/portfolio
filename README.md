@@ -2,10 +2,10 @@
 
 ### Bio
 
-Hello, I'm Amanuel Bekele, a Computer Science major at the University of Missouri-Kansas City (UMKC). With expertise in Java, C++, and Python, I previously earned an Associate's degree in Liberal Arts and General Science from Johnson County Community College (JCCC). Now at UMKC, I'm deepening my knowledge in software development and algorithm design, driven by a passion for technology and innovation.
+Hello, I'm Amanuel Bekele, a driven Computer Science major currently pursuing my academic journey at the University of Missouri-Kansas City (UMKC). With a strong foundation in Python, SQL, and VBA, I'm poised to make a significant impact in the world of technology.
 
 ### Resume
-[Resume](https://docs.google.com/document/d/e/2PACX-1vTaNL89yEN7LrC3NDYY5z1wd6uxw23w67W1e-tKMF_q4XImmRNsi8NuHEWVbyACxVn3ElVtxun-FMZc/pub)
+[Resume](file:///C:/Users/amanu/Downloads/Resume%20-%20Amanuel%20Bekele.pdf)
 
 ### Education Background
 
@@ -49,14 +49,23 @@ I attended Johnson County Community College (JCCC) for two years then transferre
 - Special Topics (RST in Data Science in Cybersecurity) (COMP-SCI 490)
 - Linear Algebra I (MATH 300)
 - Physics For Scientists and Engineers (PHYSICS 240)
+- Special Topics (COMP-SCI 490WD)
+- Internship (COMP-SCI 491)
+- Data Communication and Networking (COMP-SCI 320)
+- Intro to Operating Systems (COMP-SCI 431)
+- Found of Software Engineering (COMP-SCI 449)
+- Intro to Database Management Systems (COMP-SCI 470)
+- Ethics & Professionalism (COMP-SCI 304)
+- Introduction to Cybersecurity (COMP-SCI 361)
+- Program Language: Design & Implementation (COMP-SCI 441)
+- Software Engineering Capstone (COMP-SCI 451R)
 
 ### Skills
 
 - Database Development
-- C++
-- Java
-- Python
+- SQL
 - VBA
+- Python
 
 ### Projects
 
@@ -77,8 +86,8 @@ I attended Johnson County Community College (JCCC) for two years then transferre
 ### Work Experience
 
 **Technical Assistant Intern @ TAB USA LLC (April 2024 - Present)**
-- Develop a Microsoft Access database to record production and permanent record of battery serial numbers
-- Write VBA applications for production scheduling that interface with MS Access
+- Develop Microsoft Access databases for tracking battery serial numbers, matching a potential customer’s forklift to the appropriate battery, and managing forklift companies, customer details, call-backs, and quotes for the sales department
+- Write VBA script & SQL queries for production scheduling to interface with Microsoft Access Databases
 - Support plant IT operations
   
 **Electronic Technician Apprentice @ Garmin Ltd (February 2021 - April 2021)**
